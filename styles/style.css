@@ -45,3 +45,7 @@ html {
 
 
 /* Main business card contents */
+
+.card h2, .card p {
+	margin: 0;
+}
