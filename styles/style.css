@@ -38,9 +38,9 @@ html {
 
 /* Header and Footer */
 
-.card header footer {
-	height: 3.125em;
-
+.card header, .card footer {
+	height: 3em;
+	padding: 1em;
 }
 
 
